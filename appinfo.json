@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "vaughtmt@gmail.com",
+    "longName": "Slow Face",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Slow Face",
+    "uuid": "7122d81e-1ab3-448a-b2ed-e0158253b548",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
