@@ -1,4 +1,4 @@
-#include "simple_analog.h"
+#include "main.h"
 
 #include "pebble.h"
 
